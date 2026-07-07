@@ -252,12 +252,14 @@ document.getElementById("letterContent");
 
 const message = `Dear Enjel,
 
-I will miss you deeply. Our deep and 
-shallow talks alike, I will forever 
-cherish them. We, on the living realm are as proud as those loved ones who had to say their early goodbyes. They may not be able to witness this with their own living eyes, I’m sure somewhere, their spirits are celebrating with joy and pride na naka paso ka gid. As they say this is the beginning of the end, kay real world nagid. I hope ang sparks nimo towards your passion is dili mangawala, and if feel nimo nga luya na jud, just know na you can let it out and talk to me. Available ko to chitchat and bother, ah ikaw nagud na oh. Kidding aside, makaluya man ning kalibutan, remember who we are living and fighting for. Laban maskin labad na. I love you gel, salamat kayo sa imohang extended empathy and kindness, ambot paunsa ko kabawi ato pero maisip mor in sana na you can let frustrations out saakoa hehe. Kita ta puhon, chat ra gud~ May God Bless you! CONGRATS GRADUATE!
+I will miss you deeply. 
+Our deep and shallow talks alike, 
+I will forever cherish them. 
+We, on the living realm are as proud as those loved ones who had to say their early goodbyes. They may not be able to witness this with their own living eyes, I’m sure somewhere, their spirits are celebrating with joy and pride na naka paso ka gid. As they say this is the beginning of the end, kay real world nagid. I hope ang sparks nimo towards your passion is dili mangawala, and if feel nimo nga luya na jud, just know na you can let it out and talk to me. Available ko to chitchat and bother, ah ikaw nagud na oh. Kidding aside, makaluya man ning kalibutan, remember who we are living and fighting for. Laban maskin labad na. I love you gel, salamat kayo sa imohang extended empathy and kindness, ambot paunsa ko kabawi ato pero maisip mor in sana na you can let frustrations out saakoa hehe. Kita ta puhon, chat ra gud~ May God Bless you! CONGRATS GRADUATE!
+
 - Your Ruru
 
-P.S. chat chat ha, magkita ta puhon. I will always be here for you, gel.`;
+P.S. chat chat ha, magkita ta puhon. I will always be here for you, Gel.`;
 let index = 0;
 
 function startTyping(){
