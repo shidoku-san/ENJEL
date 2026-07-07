@@ -260,7 +260,7 @@ are as proud as those loved ones who had to say their early goodbyes. They may n
 
 - Your Ruru
 
-P.S. chat chat ha, magkita ta puhon. I will always be here for you, Gel.`;
+P.S. chat chat ha, magkita ta puhon. I will always be here for you, Gel~`;
 let index = 0;
 
 function startTyping(){
